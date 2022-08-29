@@ -1,1 +1,1 @@
-This is a test for a new text file in Linux Terminal
+This is the second change in this file, made in the branch develop.
